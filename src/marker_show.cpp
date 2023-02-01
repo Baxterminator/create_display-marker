@@ -105,7 +105,6 @@ private:
     bool im_init=false;
     bool seg=false;
     int count = 0;
-    bool right;
     char color;
 
     ;
