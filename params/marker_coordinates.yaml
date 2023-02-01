@@ -1,0 +1,19 @@
+left_red_box_pub:
+  x:1
+  y:0.5
+  z:0
+  yaw:0
+  pitch:0
+  roll:0
+  frame_id:base
+  child_frame_id:left_red_box
+
+left_blue_box_pub:
+  x:1
+  y:0.2
+  z:0
+  yaw:0
+  pitch:0
+  roll:0
+  frame_id:base
+  child_frame_id:left_blue_box
